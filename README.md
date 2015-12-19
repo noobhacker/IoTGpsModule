@@ -22,3 +22,15 @@ There are two classes which contains the information,
 PositionInfo: Contains the position info for most applications, longitude and latitude, accuracy and etc.
 
 SattelitesInfo: This doesn't make sense on normal usage but I love this thing, you can get all sattelites info from here
+
+Make sure you added the following into the appxmainfist file using XML 
+
+  <Capabilities>
+    <Capability Name="internetClient" />
+    <DeviceCapability Name="serialcommunication">
+      <Device Id="any">
+        <Function Type="name:serialPort" />
+      </Device>
+    </DeviceCapability>
+  </Capabilities>
+</Package>
