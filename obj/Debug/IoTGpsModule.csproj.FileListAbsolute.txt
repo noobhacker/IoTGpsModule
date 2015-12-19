@@ -1,0 +1,17 @@
+E:\Projects\IoTGpsModule\IoTGpsModule\bin\Debug\IoTGpsModule.dll
+E:\Projects\IoTGpsModule\IoTGpsModule\bin\Debug\IoTGpsModule.pdb
+E:\Projects\IoTGpsModule\IoTGpsModule\bin\Debug\IoTGpsModule.pri
+E:\Projects\IoTGpsModule\IoTGpsModule\obj\Debug\IoTGpsModule.csprojResolveAssemblyReference.cache
+E:\Projects\IoTGpsModule\IoTGpsModule\obj\Debug\IoTGpsModule.dll
+E:\Projects\IoTGpsModule\IoTGpsModule\obj\Debug\IoTGpsModule.pdb
+E:\Projects\IoTGpsModule\IoTGpsModule\obj\Debug\priconfig.xml
+E:\Projects\IoTGpsModule\IoTGpsModule\obj\Debug\priconfig.xml.intermediate
+E:\Projects\IoTGpsModule\IoTGpsModule\obj\Debug\layout.resfiles
+E:\Projects\IoTGpsModule\IoTGpsModule\obj\Debug\layout.resfiles.intermediate
+E:\Projects\IoTGpsModule\IoTGpsModule\obj\Debug\resources.resfiles
+E:\Projects\IoTGpsModule\IoTGpsModule\obj\Debug\resources.resfiles.intermediate
+E:\Projects\IoTGpsModule\IoTGpsModule\obj\Debug\pri.resfiles
+E:\Projects\IoTGpsModule\IoTGpsModule\obj\Debug\pri.resfiles.intermediate
+E:\Projects\IoTGpsModule\IoTGpsModule\obj\Debug\qualifiers.txt
+E:\Projects\IoTGpsModule\IoTGpsModule\obj\Debug\qualifiers.txt.intermediate
+E:\Projects\IoTGpsModule\IoTGpsModule\obj\Debug\MultipleQualifiersPerDimensionFound.txt
