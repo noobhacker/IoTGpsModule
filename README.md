@@ -18,5 +18,7 @@ Active: THe GPS knows your location
 Void: Settlelites not connected, unknown location but connected to GPS Module.
 
 There are two classes which contains the information, 
+
 PositionInfo: Contains the position info for most applications, longitude and latitude, accuracy and etc.
+
 SattelitesInfo: This doesn't make sense on normal usage but I love this thing, you can get all sattelites info from here
