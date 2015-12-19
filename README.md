@@ -23,14 +23,6 @@ PositionInfo: Contains the position info for most applications, longitude and la
 
 SattelitesInfo: This doesn't make sense on normal usage but I love this thing, you can get all sattelites info from here
 
-Make sure you added the following into the appxmainfist file using XML 
+Make sure you added the following into the appxmainfist file using XML editor
 
-  <Capabilities>
-    <Capability Name="internetClient" />
-    <DeviceCapability Name="serialcommunication">
-      <Device Id="any">
-        <Function Type="name:serialPort" />
-      </Device>
-    </DeviceCapability>
-  </Capabilities>
-</Package>
+
