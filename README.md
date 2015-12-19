@@ -25,4 +25,15 @@ SattelitesInfo: This doesn't make sense on normal usage but I love this thing, y
 
 Make sure you added the following into the appxmainfist file using XML editor
 
-
+'''html
+<code>
+  <Capabilities>
+    <Capability Name="internetClient" />
+    <DeviceCapability Name="serialcommunication">
+      <Device Id="any">
+        <Function Type="name:serialPort" />
+      </Device>
+    </DeviceCapability>
+  </Capabilities>
+  </code>
+'''
