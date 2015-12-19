@@ -25,8 +25,7 @@ SattelitesInfo: This doesn't make sense on normal usage but I love this thing, y
 
 Make sure you added the following into the appxmainfist file using XML editor
 
-```html
-<code>
+```xml
   <Capabilities>
     <Capability Name="internetClient" />
     <DeviceCapability Name="serialcommunication">
@@ -35,5 +34,4 @@ Make sure you added the following into the appxmainfist file using XML editor
       </Device>
     </DeviceCapability>
   </Capabilities>
-  </code>
 ```
